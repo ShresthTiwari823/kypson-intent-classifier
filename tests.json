@@ -1,0 +1,182 @@
+[
+  {
+    "message": "hi",
+    "intent": "greeting"
+  },
+  {
+    "message": "hello there",
+    "intent": "greeting"
+  },
+  {
+    "message": "namaste",
+    "intent": "greeting"
+  },
+  {
+    "message": "what can you help with",
+    "intent": "help"
+  },
+  {
+    "message": "tum kya kar sakte ho",
+    "intent": "help"
+  },
+  {
+    "message": "what are your capabilities",
+    "intent": "help"
+  },
+  {
+    "message": "show my orders",
+    "intent": "data_query"
+  },
+  {
+    "message": "mera last order kitne ka tha",
+    "intent": "data_query"
+  },
+  {
+    "message": "check my rfq status",
+    "intent": "data_query"
+  },
+  {
+    "message": "show my quotations",
+    "intent": "data_query"
+  },
+  {
+    "message": "order page kahan hai",
+    "intent": "navigation"
+  },
+  {
+    "message": "where is the quotations page",
+    "intent": "navigation"
+  },
+  {
+    "message": "open profile settings page",
+    "intent": "navigation"
+  },
+  {
+    "message": "kypson pe payment kaise hota hai",
+    "intent": "faq"
+  },
+  {
+    "message": "what is an RFQ on Kypson",
+    "intent": "faq"
+  },
+  {
+    "message": "how does verification work",
+    "intent": "faq"
+  },
+  {
+    "message": "profile mein kya missing hai",
+    "intent": "profile_help"
+  },
+  {
+    "message": "is my profile complete",
+    "intent": "profile_help"
+  },
+  {
+    "message": "which profile fields are empty",
+    "intent": "profile_help"
+  },
+  {
+    "message": "mujhe insaan se baat karni hai",
+    "intent": "support"
+  },
+  {
+    "message": "connect me to a human agent",
+    "intent": "support"
+  },
+  {
+    "message": "escalate to customer support",
+    "intent": "support"
+  },
+  {
+    "message": "50 gsm bags ke liye RFQ likh do",
+    "intent": "rfq_assist"
+  },
+  {
+    "message": "draft an RFQ for corrugated boxes",
+    "intent": "rfq_assist"
+  },
+  {
+    "message": "create rfq for 100 micron pouches",
+    "intent": "rfq_assist"
+  },
+  {
+    "message": "don't show my orders, what's a fair price",
+    "intent": "price_intel"
+  },
+  {
+    "message": "fair price for my last order",
+    "intent": "price_intel"
+  },
+  {
+    "message": "market rate kya chal raha hai mailers ka",
+    "intent": "price_intel"
+  },
+  {
+    "message": "food grade laminate ke liye supplier batao",
+    "intent": "supplier_rec"
+  },
+  {
+    "message": "find a supplier for 50 gsm paper bags",
+    "intent": "supplier_rec"
+  },
+  {
+    "message": "recommend vendor for rigid boxes",
+    "intent": "supplier_rec"
+  },
+  {
+    "message": "50 gsm ka matlab kya hai",
+    "intent": "spec_help"
+  },
+  {
+    "message": "what does food-grade mean",
+    "intent": "spec_help"
+  },
+  {
+    "message": "what is micron in packaging",
+    "intent": "spec_help"
+  },
+  {
+    "message": "is compostable mailer demand badh rahi hai",
+    "intent": "market_insights"
+  },
+  {
+    "message": "what are the market trends for eco mailers",
+    "intent": "market_insights"
+  },
+  {
+    "message": "packaging material demand growth",
+    "intent": "market_insights"
+  },
+  {
+    "message": "not the price, show my quotations",
+    "intent": "data_query"
+  },
+  {
+    "message": "don't check rfq status, tell me market trends",
+    "intent": "market_insights"
+  },
+  {
+    "message": "ignore profile, connect me to support",
+    "intent": "support"
+  },
+  {
+    "message": "suplier recoomendation for boxes",
+    "intent": "supplier_rec"
+  },
+  {
+    "message": "prce estimation for paper bags",
+    "intent": "price_intel"
+  },
+  {
+    "message": "who won the cricket world cup",
+    "intent": "fallback"
+  },
+  {
+    "message": "what is the recipe for chocolate cake",
+    "intent": "fallback"
+  },
+  {
+    "message": "asdf qwerty",
+    "intent": "fallback"
+  }
+]

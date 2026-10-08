@@ -1,0 +1,77 @@
+[
+  {
+    "intent": "greeting",
+    "confidence": "high",
+    "reason": "The user greeted the assistant."
+  },
+  {
+    "intent": "help",
+    "confidence": "high",
+    "reason": "The user asked about bot capabilities."
+  },
+  {
+    "intent": "data_query",
+    "confidence": "high",
+    "reason": "The user asked to view personal account data."
+  },
+  {
+    "intent": "price_intel",
+    "confidence": "high",
+    "reason": "The user asked for pricing or market rate intelligence."
+  },
+  {
+    "intent": "supplier_rec",
+    "confidence": "high",
+    "reason": "The user asked for supplier recommendations."
+  },
+  {
+    "intent": "spec_help",
+    "confidence": "high",
+    "reason": "The user asked for clarification on a packaging spec."
+  },
+  {
+    "intent": "rfq_assist",
+    "confidence": "high",
+    "reason": "The user asked to draft or write an RFQ."
+  },
+  {
+    "intent": "navigation",
+    "confidence": "high",
+    "reason": "The user asked for page navigation."
+  },
+  {
+    "intent": "data_query",
+    "confidence": "high",
+    "reason": "The user asked to view personal account data."
+  },
+  {
+    "intent": "market_insights",
+    "confidence": "high",
+    "reason": "The user asked about market demand or trends."
+  },
+  {
+    "intent": "profile_help",
+    "confidence": "high",
+    "reason": "The user asked about profile completeness or missing details."
+  },
+  {
+    "intent": "support",
+    "confidence": "high",
+    "reason": "The user asked to talk to a human support agent."
+  },
+  {
+    "intent": "faq",
+    "confidence": "high",
+    "reason": "The user asked a general platform FAQ."
+  },
+  {
+    "intent": "data_query",
+    "confidence": "high",
+    "reason": "The user asked to view personal account data."
+  },
+  {
+    "intent": "fallback",
+    "confidence": "low",
+    "reason": "The query is off-topic or unrecognized text."
+  }
+]
